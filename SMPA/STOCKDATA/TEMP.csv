@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action
+2013-11-11 17:08:01,Stifel Nicolaus,Buy,,init
+2013-11-12 08:41:57,Stifel Nicolaus,Buy,,init
+2013-11-26 06:25:57,Bank of America,Buy,,init
+2013-11-26 06:28:16,JP Morgan,Overweight,,init
+2013-11-26 06:30:01,Jefferies,Hold,,init
+2013-11-26 08:39:09,Barclays,Equal-Weight,,init
+2013-11-26 08:39:32,Wells Fargo,Market Perform,,init
+2013-11-26 08:39:48,Guggenheim,Neutral,,init
+2013-11-26 08:44:01,Credit Suisse,Outperform,,init
+2014-01-08 06:40:36,Bank of America,Neutral,Buy,down
+2014-02-24 07:06:05,Bank of America,Underperform,Neutral,down
+2014-04-17 00:28:22,JP Morgan,Overweight,,main
+2014-04-24 00:28:57,Barclays,Equal-Weight,,main
+2014-04-29 21:08:55,Barclays,Equal-Weight,,main
+2014-04-29 23:01:24,JP Morgan,Overweight,,main
+2014-06-24 06:26:46,Morgan Stanley,Equal-Weight,,init
+2014-07-09 19:34:50,Barclays,Equal-Weight,,main
+2014-07-09 19:48:37,Credit Suisse,Outperform,,main
+2014-07-09 21:02:00,Jefferies,Hold,,main
+2014-07-09 22:55:21,JP Morgan,,Overweight,main
+2014-07-16 10:30:00,BB&T Capital,Hold,,init
+2014-10-02 09:00:00,Barclays,Equal-Weight,,main
+2014-10-07 09:00:00,Jefferies,Hold,,main
+2014-11-07 08:00:00,Bank of America,Buy,Underperform,up
+2014-11-14 06:10:03,CRT Capital,Fair Value,,init
+2015-01-09 09:00:00,Jefferies,Hold,,main
+2015-03-26 06:16:55,BB&T Capital,Underweight,Hold,down
+2015-04-28 09:00:00,CRT Capital,Fair Value,,main
+2015-07-08 11:00:00,Jefferies,Hold,,main
+2015-08-20 07:39:37,BB&T Capital,Hold,Underweight,up
+2015-12-11 07:45:40,Bank of America,Underperform,Buy,down
+2016-01-08 03:44:43,Credit Suisse,Outperform,,main
+2016-03-30 16:31:50,Barclays,Equal-Weight,,init
+2016-04-06 06:44:55,Goldman Sachs,Neutral,,main
+2016-04-26 08:02:21,Goldman Sachs,Neutral,,main
+2017-01-17 11:14:54,Morgan Stanley,Underweight,Equal-Weight,down
+2018-10-31 11:50:43,JP Morgan,Underweight,Neutral,down
+2019-10-17 10:50:43,Goldman Sachs,Neutral,Sell,up
+2020-08-04 09:21:49,Goldman Sachs,Sell,Neutral,down
