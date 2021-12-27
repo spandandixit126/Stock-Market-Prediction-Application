@@ -1,8 +1,11 @@
 # Stock-Market-Prediction-Application
 provides a way to predict the future by using past data and gives a suggestion for future.
 
-### ===========SMPA BY SPANDAN DIXIT=========
+# Technologies Stack:-
+Python
+Tkinter
 
+### ===========SMPA BY SPANDAN DIXIT=========
 Run SMPAc1.0.0.py file
 
 ## Screenshots
@@ -22,6 +25,8 @@ download button redirects to nse website:-
 
 
 ### BEFORE USE IMPORT FOLLOWING MODULES:-
+
+**by using command pip install <module_name>**
 
 pandas
 
