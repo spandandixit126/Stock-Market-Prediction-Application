@@ -1,6 +1,8 @@
 # Stock-Market-Prediction-Application
 provides a way to predict the future by using past data and gives a suggestion for future.
 
+This app is only uses basic python code to predict the future. next version is coming soon in which it is using machine learning algorighm to predict stock market data. stay tuned for that!
+
 # Technologies Stack:-
 Python
 Tkinter
